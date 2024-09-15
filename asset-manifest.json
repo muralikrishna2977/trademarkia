@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/trademarkia/static/css/main.85a65aaf.css",
+    "main.js": "/trademarkia/static/js/main.278abfe3.js",
+    "static/js/453.6fbfe2a5.chunk.js": "/trademarkia/static/js/453.6fbfe2a5.chunk.js",
+    "static/media/Gilroy-ExtraBold.otf": "/trademarkia/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
+    "static/media/Gilroy-Light.otf": "/trademarkia/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "index.html": "/trademarkia/index.html",
+    "static/media/akar-icons_search.svg": "/trademarkia/static/media/akar-icons_search.01db7449cb4ab6df0257.svg",
+    "main.85a65aaf.css.map": "/trademarkia/static/css/main.85a65aaf.css.map",
+    "main.278abfe3.js.map": "/trademarkia/static/js/main.278abfe3.js.map",
+    "453.6fbfe2a5.chunk.js.map": "/trademarkia/static/js/453.6fbfe2a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a65aaf.css",
+    "static/js/main.278abfe3.js"
+  ]
+}
